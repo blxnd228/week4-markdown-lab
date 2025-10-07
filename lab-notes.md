@@ -10,3 +10,9 @@
 1. First Step
 2. Second Step
 [Visit GitHub](https://github.com)
+
+
+## Partner's Contribution
+- Rostik 
+  
+
